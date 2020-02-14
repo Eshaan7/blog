@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guide on Eshaan Bansal</title>
+    <link>https://eshaan7.github.io/blog/tags/guide/</link>
+    <description>Recent content in guide on Eshaan Bansal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eshaan7.github.io/blog/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Secret step-by-step Guide to learn Hacking — Spoonfed Edition!</title>
+      <link>https://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

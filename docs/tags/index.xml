@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Eshaan Bansal</title>
+    <link>https://eshaan7.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Eshaan Bansal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eshaan7.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>paid-writing-gig</title>
+      <link>https://eshaan7.github.io/blog/tags/paid-writing-gig/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/paid-writing-gig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://eshaan7.github.io/blog/tags/wordpress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctf-writeup</title>
+      <link>https://eshaan7.github.io/blog/tags/ctf-writeup/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/ctf-writeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://eshaan7.github.io/blog/tags/guide/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PentesterLab</title>
+      <link>https://eshaan7.github.io/blog/tags/pentesterlab/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/pentesterlab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
