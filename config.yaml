@@ -34,7 +34,7 @@ menu:
 
 params:
   includeBootstrapJs: false
-  enableParticlesJs: false
+  enableParticlesJs: true
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
