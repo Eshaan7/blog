@@ -1,0 +1,73 @@
+{{ if ne .Site.Params.hideFooter true }}
+<footer id="footer" class="mt-auto text-center text-muted">
+  <div class="container">
+    <div class="footer-social-icons">
+      <ul class="social-icons">
+          <li><a target="_blank" href="https://twitter.com/mask0fmydisguis" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/in/eshaan7/" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
+          <li><a target="_blank" href="https://github.com/eshaan7" class="social-icon"> <i class="fa fa-github"></i></a></li>
+      </ul>
+    </div>
+   {{ .Site.Params.footerText | markdownify }}
+  </div>
+</footer>
+
+<style>
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+footer > .container {
+  border-top: 1px dotted #212529;
+}
+
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+}
+.social-icons a {
+    text-decoration: none;
+}
+
+.fa-twitter {
+    padding:5px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+
+.fa-linkedin {
+    padding:5px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-github {
+    padding:5px 10px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-github:hover {
+    background-color: #5a32a3;
+}
+</style>
+
+{{ end }}
