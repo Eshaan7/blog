@@ -8,7 +8,7 @@
 
   {{ range .Data.Terms.Alphabetical }}
   <div>
-    <a class="m-2 btn btn-outline-dark tag-btn" href="/tags/#{{ .Page.Title }}">
+    <a class="m-2 btn btn-outline-dark tag-btn" href="/blog/tags/#{{ .Page.Title }}">
       <span class="badge badge-dark">{{ .Count }}</span> {{ .Page.Title }}
     </a>
   </div>

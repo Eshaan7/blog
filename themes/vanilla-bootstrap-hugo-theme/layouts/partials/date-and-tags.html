@@ -7,6 +7,6 @@
   {{ range . }}
   <!-- {{ $href := print (absURL "tags/") (urlize .) }} -->
   <!-- {{ $href := print (absURL "tags/#") }} -->
-  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/#{{ . }}">{{ . }}</a>
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="/blog/tags/#{{ . }}">{{ . }}</a>
   {{ end }}
 {{ end }}
