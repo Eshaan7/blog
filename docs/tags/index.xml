@@ -30,20 +30,20 @@
     </item>
     
     <item>
-      <title>ctf-writeup</title>
-      <link>https://eshaan7.github.io/blog/tags/ctf-writeup/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <title>guide</title>
+      <link>https://eshaan7.github.io/blog/tags/guide/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/ctf-writeup/</guid>
+      <guid>https://eshaan7.github.io/blog/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>guide</title>
-      <link>https://eshaan7.github.io/blog/tags/guide/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <title>web-dev</title>
+      <link>https://eshaan7.github.io/blog/tags/web-dev/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/guide/</guid>
+      <guid>https://eshaan7.github.io/blog/tags/web-dev/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,15 @@
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eshaan7.github.io/blog/tags/pentesterlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctf-writeup</title>
+      <link>https://eshaan7.github.io/blog/tags/ctf-writeup/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshaan7.github.io/blog/tags/ctf-writeup/</guid>
       <description></description>
     </item>
     
