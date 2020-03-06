@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paid-writing-gig on Eshaan Bansal</title>
-    <link>https://eshaan7.github.io/blog/tags/paid-writing-gig/</link>
+    <link>http://eshaan7.github.io/blog/tags/paid-writing-gig/</link>
     <description>Recent content in paid-writing-gig on Eshaan Bansal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eshaan7.github.io/blog/tags/paid-writing-gig/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://eshaan7.github.io/blog/tags/paid-writing-gig/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CVE-2020-9334: Stored XSS vulnerability in Popular Gallery Plugin for WordPress</title>
-      <link>https://eshaan7.github.io/blog/wpsec-envira-xss/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-envira-xss/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/wpsec-envira-xss/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-envira-xss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>100,000&#43; WordPress sites vulnerable due to Events Manager Plugin</title>
-      <link>https://eshaan7.github.io/blog/wpsec-event-manager/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-event-manager/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/wpsec-event-manager/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-event-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From CSRF to RCE and WordPress-site takeover: CVE-2020-8417</title>
-      <link>https://eshaan7.github.io/blog/wpsec-cve-2020-8417/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-cve-2020-8417/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/wpsec-cve-2020-8417/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-cve-2020-8417/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is xmlrpc.php file and why you should care about it</title>
-      <link>https://eshaan7.github.io/blog/wpsec-xml-rpc/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-xml-rpc/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/wpsec-xml-rpc/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-xml-rpc/</guid>
       <description></description>
     </item>
     

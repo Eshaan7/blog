@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eshaan Bansal</title>
-    <link>https://eshaan7.github.io/blog/tags/</link>
+    <link>http://eshaan7.github.io/blog/tags/</link>
     <description>Recent content in Tags on Eshaan Bansal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eshaan7.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://eshaan7.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>paid-writing-gig</title>
-      <link>https://eshaan7.github.io/blog/tags/paid-writing-gig/</link>
+      <link>http://eshaan7.github.io/blog/tags/paid-writing-gig/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/paid-writing-gig/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/paid-writing-gig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WordPress</title>
-      <link>https://eshaan7.github.io/blog/tags/wordpress/</link>
+      <link>http://eshaan7.github.io/blog/tags/wordpress/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/wordpress/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guide</title>
-      <link>https://eshaan7.github.io/blog/tags/guide/</link>
+      <link>http://eshaan7.github.io/blog/tags/guide/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/guide/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web-dev</title>
-      <link>https://eshaan7.github.io/blog/tags/web-dev/</link>
+      <link>http://eshaan7.github.io/blog/tags/web-dev/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/web-dev/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/web-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PentesterLab</title>
-      <link>https://eshaan7.github.io/blog/tags/pentesterlab/</link>
+      <link>http://eshaan7.github.io/blog/tags/pentesterlab/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/pentesterlab/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/pentesterlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ctf-writeup</title>
-      <link>https://eshaan7.github.io/blog/tags/ctf-writeup/</link>
+      <link>http://eshaan7.github.io/blog/tags/ctf-writeup/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/ctf-writeup/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/ctf-writeup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hackthebox</title>
-      <link>https://eshaan7.github.io/blog/tags/hackthebox/</link>
+      <link>http://eshaan7.github.io/blog/tags/hackthebox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eshaan7.github.io/blog/tags/hackthebox/</guid>
+      <guid>http://eshaan7.github.io/blog/tags/hackthebox/</guid>
       <description></description>
     </item>
     
