@@ -13,37 +13,37 @@
     
     <item>
       <title>CVE-2020-9334: Stored XSS vulnerability in Popular Gallery Plugin for WordPress</title>
-      <link>http://eshaan7.github.io/blog/post/wpsec-envira-xss/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-envira-xss/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/post/wpsec-envira-xss/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-envira-xss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>100,000&#43; WordPress sites vulnerable due to Events Manager Plugin</title>
-      <link>http://eshaan7.github.io/blog/post/wpsec-event-manager/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-event-manager/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/post/wpsec-event-manager/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-event-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From CSRF to RCE and WordPress-site takeover: CVE-2020-8417</title>
-      <link>http://eshaan7.github.io/blog/post/wpsec-cve-2020-8417/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-cve-2020-8417/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/post/wpsec-cve-2020-8417/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-cve-2020-8417/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is xmlrpc.php file and why you should care about it</title>
-      <link>http://eshaan7.github.io/blog/post/wpsec-xml-rpc/</link>
+      <link>http://eshaan7.github.io/blog/wpsec-xml-rpc/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/post/wpsec-xml-rpc/</guid>
+      <guid>http://eshaan7.github.io/blog/wpsec-xml-rpc/</guid>
       <description></description>
     </item>
     
