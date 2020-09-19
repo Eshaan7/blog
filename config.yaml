@@ -29,7 +29,7 @@ menu:
     weight: 2
   - name: About
     pre: smile
-    url: https://eshaan7.github.io/
+    url: https://github.com/eshaan7
     weight: 3
 
 params:

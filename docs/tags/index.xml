@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Eshaan Bansal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://eshaan7.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gsoc2020</title>
+      <link>http://eshaan7.github.io/blog/tags/gsoc2020/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://eshaan7.github.io/blog/tags/gsoc2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>paid-writing-gig</title>
