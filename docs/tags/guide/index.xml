@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>guide on Eshaan Bansal</title>
-    <link>http://eshaan7.github.io/blog/tags/guide/</link>
+    <link>https://eshaan7.github.io/blog/tags/guide/</link>
     <description>Recent content in guide on Eshaan Bansal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://eshaan7.github.io/blog/tags/guide/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://eshaan7.github.io/blog/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting that first internship and keeping it: Full Stack Web at a startup</title>
-      <link>http://eshaan7.github.io/blog/posify_internship/</link>
+      <link>https://eshaan7.github.io/blog/posify_internship/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/posify_internship/</guid>
+      <guid>https://eshaan7.github.io/blog/posify_internship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Secret step-by-step Guide to learn Hacking — Spoonfed Edition!</title>
-      <link>http://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</link>
+      <link>https://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</guid>
+      <guid>https://eshaan7.github.io/blog/secret-guide-to-learn-hacking/</guid>
       <description></description>
     </item>
     
