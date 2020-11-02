@@ -9,7 +9,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  post: /:filename/
+  /: /:filename/
 
 # See https://feathericons.com/
 # The value of pre is the icon name
@@ -21,7 +21,7 @@ menu:
   #   weight: 1
   - name: Posts
     pre: edit
-    url: /post/
+    url: /
     weight: 1
   - name: Tags
     pre: tag

@@ -23,7 +23,7 @@
 {{ range .Data.Terms.Alphabetical }}
   <div class="container mb-4" >
     <h2 id="{{ .Page.Title }}" style="font-weight: 800;"><i data-feather="tag"></i> {{ .Page.Title }}</h2>
-    {{ range where .Pages "Type" "post"  }}
+    {{ range .Pages  }}
       <div class="ml-5 mb-2">
         {{ if (ne .Params.outLink nil) }}
           <a class="font-125" href="{{ .Params.outLink }}" target="_blank">{{ .Title }}</a><br>
